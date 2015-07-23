@@ -28,7 +28,7 @@
 		<h3 class="panel-title">Registered Users</h3>
 	</div>
 	<div class="panel-body">
-		<table id="example" class="display" cellspacing="0" width="100%">
+		<table id="example" class="display col-md-12" cellspacing="0" width="100%">
 			<thead>
 				<tr>
 					<th>Name</th>
@@ -85,6 +85,8 @@
 
 <script type="text/javascript">
 	$(document).ready(function() {
-    $('#example').DataTable();
+    $('#example').DataTable({
+    	responsive: true
+    });
 } );
 </script>

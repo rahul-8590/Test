@@ -6,6 +6,7 @@
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/jquery.dataTables.min.css">
+	<link rel="stylesheet" href="css/dataTables.responsive.css">
 	<link rel="stylesheet" href="css/bootstrap-select.min.css">
 	<link rel="stylesheet" href="css/custom-validation.css">
 	<link rel="stylesheet" href="css/bootstrap-datetimepicker.min.css">
@@ -14,6 +15,7 @@
 	<script src="js/jquery-2.1.4.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.dataTables.min.js"></script>
+	<script src="js/dataTables.responsive.js"></script>
 	<script src="js/bootstrap-select.min.js"></script>
 	<script src="js/jquery.validate.min.js"></script>
 	<script src="js/custom-validataion.js"></script>
