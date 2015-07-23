@@ -278,7 +278,7 @@
 							</div>
 
 							<div class="form-group">
-								<label class="col-md-3 col-xs-12 control-label">email</label>
+								<label class="col-md-3 col-xs-12 control-label">Email</label>
 								<div class="col-md-6 col-xs-12">
 									<input type="text" name="email" class="form-control" placeholder="Enter Your Email-id" />
 								</div>
