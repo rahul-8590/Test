@@ -9,10 +9,7 @@ if(isset($_GET['link']))
 $folder="";
 
 switch ($selectedLink){
-    case "login":
-                $linkInclude='login.php';
-                break;
-    
+
     case "register":
                 $linkInclude='register.php';
                 break;
